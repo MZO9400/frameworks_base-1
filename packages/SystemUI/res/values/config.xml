@@ -295,4 +295,10 @@
 
     <bool name="config_show_long_operator_name">false</bool>
     <bool name="config_show_long_operator_name_when_roaming">false</bool>
+
+ <!-- KRYPT -->
+
+    <!-- Allow Opa (Pixel navbar) layout -->
+    <bool name="config_allowOpaLayout">true</bool>
+
 </resources>
